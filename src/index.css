@@ -1,0 +1,6 @@
+.card{
+  transition: all 1s ease-out;
+}
+.hide{
+  transform: translateY(-115%) translateX(50%) scale(0.1);
+}
